@@ -5,7 +5,7 @@
 - Atualmente estou cursando Pós em Engenharia de Software e Sistemas e aprendendo a programar em Java...
 
 
-<div>
+<div style="display: inline_block"><br>
   <a href="https://github.com/wesleyschwartz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wesleyschwartz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyschwartz&layout=compact&langs_count=7&theme=tokyonight"/>
