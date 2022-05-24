@@ -2,7 +2,8 @@
 
 
 - 🌱 Engenheiro de Materiais
-- Atualmente estou cursando Pós em Engenharia de Software e Sistemas e aprendendo a programar em Java...
+- Cursando Pós em Engenharia de Software e Sistemas
+- Trabalho na Compass.uol como programador trainee. 
 
 
 <div align="center">
