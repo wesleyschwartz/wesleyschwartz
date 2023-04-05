@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Wesley Schwartz
 
 
-- 🌱 Engenheiro de Materiais
-- Cursando Pós em Engenharia de Software e Sistemas
+- 🌱 Engenheiro de Materiais e Engenhario de Software e Sistemas
 - Programador trainee da Compass.uol, atuo como FullStack WLP Java no projeto da Vivo. 
 
 
