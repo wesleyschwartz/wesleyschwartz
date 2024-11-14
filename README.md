@@ -2,7 +2,7 @@
 
 
 - 🌱 Engenheiro de Materiais e Engenhario de Software e Sistemas
-- Programador trainee da Compass.uol, atuo como FullStack WLP Java no projeto da Vivo. 
+- Desenvolvedor Jr. na Compass.uol, atuo com Java Spring e FullStack WLP Java no projeto da Vivo. 
 
 
 
