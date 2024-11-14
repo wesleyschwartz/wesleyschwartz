@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesley Schwartz
 
 
-- 🌱 Engenheiro de Materiais e Engenhario de Software e Sistemas
+- 🌱 Engenhario de Software e Sistemas e Engenheiro de Materiais.
 - Desenvolvedor Jr. na Compass.uol, atuo com Java Spring e FullStack WLP Java no projeto da Vivo. 
 
 
