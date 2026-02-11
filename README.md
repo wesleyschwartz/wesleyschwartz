@@ -2,7 +2,7 @@
 
 
 - 🌱 Engenhario de Software e Sistemas e Engenheiro de Materiais.
-- Desenvolvedor Jr. na Compass.uol, atuo com Java Spring e FullStack WLP Java no projeto da Vivo. 
+- Arquiteto de Software na Compass UOL, onde presto serviços para uma grande empresa de telefonia, participando de iniciativas estratégicas que envolvem modernização de sistemas, adoção de boas práticas de arquitetura e orientação técnica para equipes de desenvolvimento.
 
 
 
